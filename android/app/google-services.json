@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "698067853903",
+    "firebase_url": "https://delta-t-f42e3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "delta-t-f42e3",
+    "storage_bucket": "delta-t-f42e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698067853903:android:c367d43f2acf6443be803a",
+        "android_client_info": {
+          "package_name": "com.example.delta_t"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698067853903-uvrk5qjd9cutp99b2ig74cepv0b19n04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delta_t",
+            "certificate_hash": "5974c5ba02a372e2932c6a22a929aa67cf537309"
+          }
+        },
+        {
+          "client_id": "698067853903-2qf1mdq8n4shc74c60kh0ovnnrkg3vu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfTGcVfXKqvQoPSCin-4hGvJeXWPS6XZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698067853903-2qf1mdq8n4shc74c60kh0ovnnrkg3vu0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698067853903-b1uv6rckanqjgihbrl488rb4s66gg2a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deltat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698067853903:android:dd7eae0458a33842be803a",
+        "android_client_info": {
+          "package_name": "com.example.deltat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698067853903-bf2naoa3336i6a4cmv5qg0sgpbplo396.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deltat",
+            "certificate_hash": "5974c5ba02a372e2932c6a22a929aa67cf537309"
+          }
+        },
+        {
+          "client_id": "698067853903-2qf1mdq8n4shc74c60kh0ovnnrkg3vu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfTGcVfXKqvQoPSCin-4hGvJeXWPS6XZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698067853903-2qf1mdq8n4shc74c60kh0ovnnrkg3vu0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698067853903-b1uv6rckanqjgihbrl488rb4s66gg2a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deltat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
